@@ -74,7 +74,7 @@ Deployed as a multi-page **Streamlit Cloud application** featuring:
 - Visualized financial analytics  
 - Easy-to-use data entry and management interface  
 
-🔗 **Live Demo**: [Streamlit App Link]  
+🔗 **Live Demo**: [[Streamlit App Link](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/)]  
 🔗 **Repository**: [GitHub Repo Link]  
 
 ---
@@ -100,3 +100,4 @@ FinTech & Data Science Enthusiast | Building Intelligent ML Solutions
 📫 *[Add your LinkedIn or Email]*  
 
 ---
+
