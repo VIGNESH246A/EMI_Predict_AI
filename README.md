@@ -2,6 +2,7 @@
 **Domain**: FinTech & Banking  
 **Tech Stack**: Python · Streamlit · Scikit-learn · TensorFlow/PyTorch · MLflow · Pandas · NumPy  
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/)
 ---
 
 ## 🚀 Project Overview  
@@ -100,4 +101,5 @@ FinTech & Data Science Enthusiast | Building Intelligent ML Solutions
 📫 *[Add your LinkedIn or Email]*  
 
 ---
+
 
