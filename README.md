@@ -98,8 +98,9 @@ Model Deployment · Cloud Hosting · FinTech Analytics
 ## 👨‍💻 Author  
 **Vignesh**  
 FinTech & Data Science Enthusiast | Building Intelligent ML Solutions  
-📫 *[Add your LinkedIn or Email]*  
+📫 *[vignesh246v@gmail.com]*  
 
 ---
+
 
 
